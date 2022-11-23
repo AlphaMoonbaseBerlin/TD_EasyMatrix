@@ -1,8 +1,5 @@
-# TD-Prefab
-This project can be used as a boilerplate to base future projects off of.
-
-# Description
-Tell us something about this project.
+# TD_EasyMatrix
+A simple audio and videomatrix for liveevents and streaming. 
 
 # Version
 2022.26590
